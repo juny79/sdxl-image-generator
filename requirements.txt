@@ -1,0 +1,8 @@
+# Install torch/torchvision separately using the CUDA-compatible index.
+diffusers
+transformers
+accelerate
+safetensors
+pillow
+python-dotenv
+gradio

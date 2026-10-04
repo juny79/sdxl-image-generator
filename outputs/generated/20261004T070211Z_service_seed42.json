@@ -1,0 +1,11 @@
+{
+  "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+  "prompt": "한국 아이돌 여성이 도시의 거리에서 자연스러운 포즈를 취하고 있는 모습",
+  "negative_prompt": "blurry, low quality, text, watermark",
+  "seed": 42,
+  "width": 1024,
+  "height": 1024,
+  "num_inference_steps": 30,
+  "guidance_scale": 7.0,
+  "image_path": "outputs/generated/20261004T070211Z_service_seed42.png"
+}

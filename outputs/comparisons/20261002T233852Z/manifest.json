@@ -1,0 +1,110 @@
+[
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 11,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 11.812,
+    "image_path": "outputs/comparisons/20261002T233852Z/seed_11.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 10.8,
+    "image_path": "outputs/comparisons/20261002T233852Z/seed_42.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 2025,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 10.792,
+    "image_path": "outputs/comparisons/20261002T233852Z/seed_2025.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 20,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 7.463,
+    "image_path": "outputs/comparisons/20261002T233852Z/steps_20.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 10.818,
+    "image_path": "outputs/comparisons/20261002T233852Z/steps_30.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 40,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 14.146,
+    "image_path": "outputs/comparisons/20261002T233852Z/steps_40.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 5.0,
+    "elapsed_seconds": 10.79,
+    "image_path": "outputs/comparisons/20261002T233852Z/cfg_5_0.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "elapsed_seconds": 10.789,
+    "image_path": "outputs/comparisons/20261002T233852Z/cfg_7_0.png"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+    "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+    "seed": 42,
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 9.0,
+    "elapsed_seconds": 10.79,
+    "image_path": "outputs/comparisons/20261002T233852Z/cfg_9_0.png"
+  }
+]

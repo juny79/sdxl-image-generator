@@ -1,0 +1,11 @@
+{
+  "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+  "prompt": "여자",
+  "negative_prompt": "",
+  "seed": 42,
+  "width": 1024,
+  "height": 1024,
+  "num_inference_steps": 30,
+  "guidance_scale": 7.0,
+  "image_path": "outputs/generated/20261004T070412Z_service_seed42.png"
+}

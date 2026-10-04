@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.log
+.cache/
+outputs/generated/
+outputs/comparisons/
+outputs/lora/
+
+# Keep selected README sample images under version control.
+!outputs/
+!outputs/generated/
+!outputs/comparisons/
+!outputs/img2img/
+!outputs/comparisons/20261002T233852Z/
+!outputs/img2img/20261003T183156Z_img2img_strength0_55_seed42.png
+!outputs/generated/20261004T072131Z_service_seed42.png
+!outputs/comparisons/20261002T233852Z/seed_42.png
+data/input/
+data/lora/
+*.safetensors
+*.ckpt
+*.pt

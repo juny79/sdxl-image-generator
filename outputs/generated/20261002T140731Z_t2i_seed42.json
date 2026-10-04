@@ -1,0 +1,15 @@
+{
+  "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+  "prompt": "A small traditional Korean tea house in a quiet forest, soft morning sunlight, cinematic photography, detailed wood texture",
+  "negative_prompt": "blurry, low quality, distorted architecture, text, watermark",
+  "seed": 42,
+  "width": 1024,
+  "height": 1024,
+  "num_inference_steps": 30,
+  "guidance_scale": 7.0,
+  "torch_version": "2.5.1+cu121",
+  "cuda_device": "NVIDIA A100 80GB PCIe MIG 2g.20gb",
+  "elapsed_seconds": 17.039,
+  "image_path": "outputs/generated/20261002T140731Z_t2i_seed42.png",
+  "created_at_utc": "20261002T140731Z"
+}

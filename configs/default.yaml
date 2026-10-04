@@ -1,0 +1,8 @@
+model_id: stabilityai/stable-diffusion-xl-base-1.0
+device: cuda
+dtype: float16
+width: 1024
+height: 1024
+num_inference_steps: 30
+guidance_scale: 7.0
+seed: 42

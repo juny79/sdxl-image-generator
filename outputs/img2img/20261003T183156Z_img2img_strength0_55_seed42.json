@@ -1,0 +1,11 @@
+{
+  "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+  "source_path": "outputs/generated/20261002T140731Z_t2i_seed42.png",
+  "prompt": "A watercolor illustration of the same scene, soft pastel colors",
+  "negative_prompt": "blurry, low quality, text, watermark",
+  "strength": 0.55,
+  "seed": 42,
+  "num_inference_steps": 30,
+  "guidance_scale": 7.0,
+  "image_path": "outputs/img2img/20261003T183156Z_img2img_strength0_55_seed42.png"
+}
